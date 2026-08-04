@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Michael Hildman
+# Michael Hildman
 
 ### Aspiring SOC Analyst | Cybersecurity Student | Home Lab Builder
 

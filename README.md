@@ -1,116 +1,122 @@
-Michael Hildman
+# 👋 Hi, I'm Michael Hildman
 
-Aspiring SOC Analyst and cybersecurity student building hands-on experience in security monitoring, log analysis, Windows administration, networking, and incident investigation.
+### Aspiring SOC Analyst | Cybersecurity Student | Home Lab Builder
 
-I am completing an Associate of Science in Cybersecurity through the University of Phoenix and developing a practical home lab designed to mirror entry-level SOC and IT environments.
+Building hands-on cybersecurity experience through enterprise lab environments, security monitoring, and incident response practice.
 
-Current Focus
+---
 
-Security monitoring and alert triage
+# 🛡️ About Me
 
-Splunk log collection and analysis
+I'm currently completing my **Associate of Science in Cybersecurity** at the **University of Phoenix** and preparing for a career as a **Security Operations Center (SOC) Analyst**.
 
-Windows Server and Active Directory
+I believe the best way to learn cybersecurity is by building and breaking things in a controlled environment. My GitHub documents the labs, projects, and investigations I complete as I continue developing my technical skills.
 
-Endpoint logging with Sysmon
+---
 
-Network traffic analysis with Wireshark
+# 🔍 Current Focus
 
-Vulnerability assessment and remediation
+- Security Monitoring
+- Threat Detection
+- Incident Response
+- Log Analysis
+- Active Directory
+- Windows Server Administration
+- Network Security
+- Splunk SIEM
+- Linux Administration
 
-Incident documentation and investigation
+---
 
-Linux and Windows administration
+# 💻 Technical Skills
 
-Featured Projects
+### Security
+- Splunk
+- Wireshark
+- Nmap
+- Nessus
+- Sysmon
+- Vulnerability Assessment
 
-SOC Analyst Home Lab
+### Operating Systems
+- Windows 11
+- Windows Server
+- Ubuntu Server
+- Kali Linux
 
-A multi-machine VirtualBox environment built to practice security monitoring and incident response.
+### Networking
+- TCP/IP
+- DNS
+- DHCP
+- Active Directory
+- Group Policy
+- Network Troubleshooting
 
-Environment
+### Tools
+- VirtualBox
+- Git
+- GitHub
+- PowerShell
+- Linux CLI
 
-Windows Server domain controller
+---
 
-Windows 11 domain workstation
+# 🚀 Current Projects
 
-Ubuntu Server running Splunk
+### 🖥️ SOC Analyst Home Lab
+Building a multi-machine enterprise lab featuring:
 
-Kali Linux attack and testing system
+- Windows Server Domain Controller
+- Windows 11 Domain Workstation
+- Ubuntu Server running Splunk
+- Kali Linux
+- Active Directory
+- Security Monitoring
+- Attack Simulation
+- Incident Documentation
 
-Isolated host-only and NAT networking
+---
 
-Work completed
+### 📈 Enterprise Network Lab
 
-Configured Active Directory and joined a Windows workstation to the domain
+Building and managing an enterprise-style Windows environment to strengthen skills in:
 
-Forwarded Windows event data into Splunk
+- User and Group Management
+- DNS
+- DHCP
+- Group Policy
+- Windows Administration
+- Network Troubleshooting
 
-Generated and investigated authentication and endpoint activity
+---
 
-Practiced alert triage and log searches
+### 📚 Learning & Development
 
-Used Kali Linux to create controlled security events
+Current areas of study include:
 
-Documented findings and troubleshooting steps
+- Splunk SIEM
+- Threat Hunting
+- Windows Event Logging
+- Detection Engineering
+- MITRE ATT&CK Framework
+- Incident Response
+- Security Operations
 
-Enterprise Network Lab
+---
 
-A virtual enterprise environment used to practice networking, identity management, system administration, and security controls.
+# 🎯 2026 Goals
 
-Skills demonstrated
+- Complete Associate Degree in Cybersecurity
+- Earn CompTIA Security+
+- Expand SOC Home Lab
+- Publish Incident Response Write-ups
+- Build Detection Engineering Portfolio
+- Land my first SOC Analyst role
 
-IP addressing and network troubleshooting
 
-DNS and domain services
+---
 
-User and group administration
-
-Group Policy fundamentals
-
-Windows and Linux connectivity testing
-
-Service configuration and access control
-
-Plex Media Server and Home Infrastructure
-
-A self-hosted media environment built around Plex, QNAP storage, and supporting automation services.
-
-Technologies
-
-Plex Media Server
-
-QNAP NAS
-
-RAID storage
-
-Sonarr and Radarr
-
-Prowlarr and qBittorrent
-
-Remote access and network troubleshooting
-
-This project strengthened my experience with storage management, permissions, service availability, networking, system maintenance, and troubleshooting.
-
-Technical Skills
-
-Security: Splunk, Wireshark, Nmap, Nessus, Wazuh fundamentals, vulnerability management, log analysis, alert triageSystems: Windows 11, Windows Server, Active Directory, Ubuntu Linux, Kali LinuxNetworking: TCP/IP, DNS, DHCP, NAT, host-only networking, ports and protocols, packet analysisTools: VirtualBox, GitHub, PowerShell fundamentals, Linux command line, SysmonAdditional: Technical documentation, troubleshooting, process improvement, team leadership
-
-Education
-
-Associate of Science in CybersecurityUniversity of PhoenixExpected completion: September 2026
-
-What I Am Building Next
-
-Expand endpoint visibility with Sysmon
-
-Create additional Splunk detections and dashboards
-
-Document simulated incidents with analyst-style case notes
-
-Add detection engineering examples mapped to MITRE ATT&CK
-
-Publish concise walkthroughs for completed lab projects
+> "Continuous learning and hands-on experience are the foundation of effective cybersecurity."
 
 
 
